@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Archives (не нужны в репозитории)
+*.zip
+
+# Временные файлы
+*.tmp
+*.bak
+*.log
+
+# Старые версии файлов (не нужны в репо)
+*_old.py
+*_backup.py
+level0_beginner_solutions.py
+level0_beginner_tasks.py
+level0_example_NEW.py
+level1_intermediate_solutions.py
+level1_intermediate_tasks.py
+level2_advanced_solutions.py
+level2_advanced_tasks.py
+
+# Документация для внутреннего пользования
+HOMEWORK_README.md
+lesson_plan_75min.md
+teacher_quick_guide.md
+visual_programming_languages.md
+ДЛЯ_ПРЕПОДАВАТЕЛЯ_2_АРХИВА.md
+ИНСТРУКЦИЯ_ДЛЯ_ПРЕПОДАВАТЕЛЯ.md
+КАК_ОТКРЫТЬ_РЕШЕНИЯ.md
+PROMPT_FOR_NEXT_SESSION.md
+
+# Claude AI
+.claude/
