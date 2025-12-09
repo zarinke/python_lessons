@@ -105,10 +105,10 @@
 
 **Видеокурсы:**
 - [Python бағдарламалау тілі (YouTube плейлист)](https://www.youtube.com/watch?v=I0PN2_rjrF8&list=PLnAyoDHHfaiXPc0MqQANzb7-fPPkRhQHR) 🎥 Полный курс на казахском
-- [Astana Hub — Анализ данных и Python](https://astanahub.com/en/article/besplatnyi-kurs-po-analizu-dannykh-i-python-startuet-v-kazakhstane) 🎥 Бесплатный онлайн-курс для жителей Казахстана, видеоформат
 
 **Платформы с казахским:**
 - [Skills Enbek](https://the-tech.kz/besplatnye-onlajn-kursy-po-it-i-programmirovaniyu-v-kazahstane/) 📝 Data Science и Python (казахский и русский), 72 часа, бесплатно
+- [Astana Hub — Анализ данных и Python](https://astanahub.com/en/article/besplatnyi-kurs-po-analizu-dannykh-i-python-startuet-v-kazakhstane) 🎥 Бесплатный онлайн-курс на казахском и русском от Astana Hub и Яндекс Практикум
 
 ### Средний уровень
 
